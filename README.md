@@ -51,7 +51,7 @@ Open Source Validation
 Every equation and threshold can be audited or replaced.
 
 Quick Start
-git clone https://github.com/YOURUSERNAME/atlas-psi-framework.git
+git clone https://github.com/whitwhitman/atlas-psi-framework.git
 cd atlas-psi-framework
 pip install -r requirements.txt
 python examples/quick_start.py
@@ -66,6 +66,7 @@ Graph of coherence over time
 CSV + JSON exports in outputs/
 
 Example Result
+
 SUMMARY STATISTICS
 ------------------
 Total Scenes: 6
