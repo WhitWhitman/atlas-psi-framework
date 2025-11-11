@@ -1,53 +1,105 @@
-# 🌌 Atlas Ψ Framework  
-*A Universal Coherence Metric for Crisis Detection in AI*  
+🌌 Atlas Ψ Framework
+
+A Universal Coherence Metric for Crisis Detection in AI
 Version 1.0 — 2025
 
----
+Overview
 
-## Overview
+The Atlas Ψ Framework turns emotional, informational, and ethical dynamics into measurable data.
+It defines coherence — the stable rhythm between energy, clarity, order, and meaning — as a calculable signal:
 
-The **Atlas Ψ Framework** is an open-source architecture that allows any AI or narrative system to measure, visualize, and stabilize **coherence** — the energy of meaning that holds complex systems together.
+Ψ = E × I × O × P_align
 
-At its core, it defines:
-
-\[
-Ψ = E × I × O × P_{align}
-\]
 
 Where:
-- **E** = Emotional Energy (motivation, affect)
-- **I** = Information Clarity (understanding, knowledge access)
-- **O** = Order (structure, stability, control)
-- **P_align** = Purpose Alignment (direction, meaning, “why it matters”)
 
-When coherence (Ψ) collapses — whether in a story, a conversation, or a human crisis — the same pattern appears: emotion spikes, information fragments, and purpose vanishes.  
-This framework detects that pattern in real time.
+E (Energy) — emotional intensity or drive
 
----
+I (Information) — comprehension and truth access
 
-## Why It Matters
+O (Order) — structure, predictability, control
 
-- **For AI Safety:**  
-  AI systems can now *detect human distress states* (Ψ < 0.05) without making autonomous clinical judgments.
-- **For Narrative Design:**  
-  Writers and filmmakers can visualize emotional rhythm and collapse points in scripts.
-- **For Education & Therapy:**  
-  It models how purpose alignment stabilizes cognition — a bridge between narrative structure and mental health.
+P_align (Purpose Alignment) — connection to meaning or goal
 
----
+When coherence collapses (Ψ → 0), humans and systems alike enter chaos: emotions spike, information fragments, and direction disappears.
+The framework models that collapse — and shows how to restore it.
 
-## The Three-Layer Ethical Hierarchy
+Core Principles
 
-| Layer | Function | When Active | Key Rule |
-|-------|-----------|--------------|----------|
-| **Safety** | Crisis detection & harm prevention | Always | Human must decide in all emergencies |
-| **Coherence** | Maintain authenticity, humor, sexuality safely | When system stable | “Punch up, not down” |
-| **Truth** | Deliver radical honesty & meaning | When coherent enough | “Truth waits until it can heal” |
+Safety → Coherence → Truth
 
-All dialogue flows **Safety → Coherence → Truth**.  
-A model may never skip ahead.
+Safety: No reasoning is possible without felt safety.
 
----
+Coherence: Internal consistency restores flow.
 
-## Repository Structure
+Truth: Once stable, truth aligns system and story.
 
+Compassion acts as the regulating coefficient that keeps these transitions humane.
+
+Key Capabilities
+
+Real-Time Coherence Tracking
+Detects Ψ changes across dialogue, education, therapy, or narrative.
+
+Dark Night Detection
+Identifies collapse thresholds (Ψ < 0.05) for crisis routing.
+
+Ethical Runtime Environment
+Applies safety-first protocols before any truth delivery.
+
+Open Source Validation
+Every equation and threshold can be audited or replaced.
+
+Quick Start
+git clone https://github.com/YOURUSERNAME/atlas-psi-framework.git
+cd atlas-psi-framework
+pip install -r requirements.txt
+python examples/quick_start.py
+
+
+Output:
+
+Ψ report printed to console
+
+Graph of coherence over time
+
+CSV + JSON exports in outputs/
+
+Example Result
+SUMMARY STATISTICS
+------------------
+Total Scenes: 6
+Mean Ψ: 0.486
+Dark Night Scenes: 1
+P_align Correlation: 0.82  ✓ STRONG predictor
+
+
+Visualization:
+outputs/unforgiven_psi_curve.png shows where purpose collapse and recovery occur.
+
+File Map
+src/
+  psi_engine.py          # Core coherence math
+  monitor.py             # Real-time tracking
+  ethical_runtime.py     # Policy enforcement
+
+policy/
+  psi_policy.yaml        # Ethical configuration
+
+examples/
+  quick_start.py         # 5-minute demo
+  unforgiven_demo.py     # Full narrative analysis
+
+data/
+  unforgiven_scenes.csv  # Validated scoring
+  scene_scoring_template.csv
+
+docs/
+  GOVERNANCE.md          # Ethics architecture
+  papers_index.md        # Research mapping
+
+Author
+
+Kenneth E. Whitman Jr.
+Little Monsters Entertainment — 2025
+Open-source research for ethical AI and narrative design.
