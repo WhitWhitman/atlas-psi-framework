@@ -1,0 +1,5 @@
+scene_number,timestamp,title,energy,information,order,p_align,notes
+1,0,Scene Title,0.5,0.5,0.5,0.5,Add your notes here
+2,5,Second Scene,0.6,0.7,0.8,0.6,Example: rising tension or discovery
+3,10,Third Scene,0.4,0.6,0.5,0.7,Example: conflict or doubt
+4,15,Fourth Scene,0.8,0.9,0.6,0.9,Example: climax or resolution
