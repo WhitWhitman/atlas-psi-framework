@@ -94,4 +94,3 @@ integration:
     retention_days: 90
     restricted_access: true
     redact_personal_data: true
-# Policy YAML placeholder
