@@ -1,2 +1,15 @@
 scene_number,timestamp,title,energy,information,order,p_align,notes
-1,0,Start,0.5,0.5,0.5,0.5,Example
+1,0,Pig Farmer - Reformed Life,0.3,0.8,0.7,0.6,Low stakes domestic life
+2,15,Schofield Kid Arrives,0.5,0.7,0.7,0.5,Temptation from old life
+3,25,Decision to Go,0.6,0.7,0.6,0.7,Purpose = provide for kids
+4,35,Recruit Ned Logan,0.6,0.8,0.7,0.8,Mission clear partnership strong
+5,50,Arrive Big Whiskey,0.7,0.7,0.6,0.7,Stakes rising opposition clear
+6,60,Little Bill Beats Munny,0.8,0.5,0.2,0.4,Loss of control questioning mission
+7,80,First Kill - Davey,0.7,0.6,0.4,0.3,Moral reality hits doubt creeping
+8,95,Ned Captured,0.8,0.5,0.3,0.3,Mission falling apart
+9,105,Ned's Death - News Arrives,0.9,0.4,0.1,0.05,DARK NIGHT - total collapse
+10,110,Munny Drinks Whiskey,0.9,0.6,0.3,0.2,New purpose forming through rage
+11,115,I've killed everything that walked,0.95,0.8,0.6,0.8,Perfect clarity of identity
+12,120,Saloon Confrontation,0.95,0.9,0.8,0.9,Peak coherence moral authority
+13,125,You better bury Ned right,0.7,0.9,0.9,0.85,Justice served
+14,130,Epilogue,0.4,0.8,0.7,0.7,Ambiguous resolution
