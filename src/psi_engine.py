@@ -152,4 +152,4 @@ if __name__ == "__main__":
     e = PsiCurveEngine(s, title="Demo Narrative")
     print(e.summary())
     e.plot()
-# Core Ψ engine placeholder
+
