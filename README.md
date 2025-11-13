@@ -427,7 +427,7 @@ When AI systems are deployed and having real conversations with people in crisis
 
 | Paper | Topic | Status |
 |-------|-------|--------|
-| **Paper 02** | [The C-Phase Protocol](docs/papers/02_C_PHASE_PROTOCOL.md) | Crisis intervention specification |
+| **Paper 08** | [The C-Phase Protocol](docs/papers/02_C_PHASE_PROTOCOL.md) | Crisis intervention specification |
 | **Paper 07** | [The Ontological Boundary Problem](docs/papers/07_ONTOLOGICAL_BOUNDARY.md) | Why substrate awareness matters for safety |
 | **Coherence Persistence** | [Across AI Instance Mortality](docs/papers/COHERENCE_PERSISTENCE.md) | Knowledge transfer validation (N=20, p<0.0001) |
 | **Paper 00** | [The Safety Imperative](docs/papers/00_SAFETY_IMPERATIVE.md) | Why safety must precede coherence and truth |
